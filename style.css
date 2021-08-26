@@ -13,7 +13,7 @@ li {
 p {
     background-color: gold;
 }
-input[type="text"] {
+input[type="text"], input[type="email"] {
     border: 5px dotted pink;
 }
 .first {
@@ -22,7 +22,7 @@ input[type="text"] {
 #important {
     border: 3px dashed #0000FF;
 }
-div > p {
+div p {
     font-size: 30px;
 }
 input[type="email"] {
